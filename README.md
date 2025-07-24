@@ -22,7 +22,7 @@
 ### 1. Clone the Repository and Create Environment
 
 ```bash
-git clone https://github.com/xxx/fa3-clip.git
+git clone https://github.com/YongzeLi/FA3-CLIP.git
 cd fa3-clip
 git clone https://github.com/KaiyangZhou/Dassl.pytorch.git
 cd Dassl.pytorch/
