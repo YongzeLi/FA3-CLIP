@@ -1,0 +1,6 @@
+timm
+opencv-python
+PyYAML
+termcolor
+numpy
+scikit-learn
