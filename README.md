@@ -11,7 +11,6 @@
 - `clip/`: CLIP backbone and modifications
 - `configs/`: YAML configuration files
 - `datasets/`: Dataset loading and processing
-- `losses/`: Custom loss functions
 - `trainers/`: Training pipeline
 - `util/`: Evaluation and metrics
 - `scripts/`: Shell scripts to launch training/inference
