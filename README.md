@@ -39,13 +39,27 @@ cd ..
 pip install -r fa3_requirements.txt
 ```
 
-### 2. Run Training
+### 2. Datasets
+
+This project is evaluated on two datasets:
+
+- **UniAttackData**  
+  - 📄 *Unified Physical-Digital Face Attack Detection*, IJCAI 2024  
+  - 🔗 [Paper](https://www.ijcai.org/proceedings/2024/0083.pdf)  
+  - 📂 [Github Page](https://github.com/liuajian/CASIA-FAS-Dataset/tree/main/UniAttackData)
+
+- **JFSFDB**  
+  - 📄 *Benchmarking Joint Face Spoofing and Forgery Detection With Visual and Physiological Cues*, IEEE TIFS 2024  
+  - 🔗 [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10387780)  
+  - 📂 [GitHub Page](https://github.com/ZitongYu/Benchmarking/tree/main)
+
+### 3. Run Training
 
 ```bash
 bash scripts/fa3_clip.sh
 ```
 
-### 3. Pretrained Models
+### 4. Pretrained Models
 
 ```bash
 We will release pretrained weights soon.
