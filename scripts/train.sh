@@ -1,7 +1,6 @@
 #!/bin/bash
 # custom config
-# DATA=/mnt/sdh/UniAttackData  # Dataset dir
-DATA=/home/apulis-dev/adhub/uniattack/0.1/sdh/UniAttackData
+DATA=/mnt/sdh/UniAttackData  # Dataset dir
 OUTPUT=./test/  # pth save pth
 PROTOCOL=p1@train@val@test # {protocol name}@train@val@test
 GPU_IDS='0' # str
