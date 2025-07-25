@@ -64,6 +64,6 @@ bash scripts/val.sh
 
 ### 4. Checkpoints
 
-[Protpcol P1 checkpoint](https://drive.google.com/file/d/1b3Df6jjwKKXS9gUSLPqwxOkwFkn8dTEB/view?usp=sharing)
+[Protocol P1 checkpoint](https://drive.google.com/file/d/1b3Df6jjwKKXS9gUSLPqwxOkwFkn8dTEB/view?usp=sharing)
 
 
