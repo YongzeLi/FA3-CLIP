@@ -6,10 +6,8 @@
 #     └── CLIP@VL/
 #         └── model-best.pth.tar
 
-# DATA=/mnt/sdh/UniAttackData  # Dataset dir
-DATA=/home/apulis-dev/adhub/uniattack/0.1/sdh/UniAttackData
-# MODELDIR=./test/2024-12-15_06:46:46  # load pth dir
-MODELDIR=./best_pth/p1_best  # load pth dir
+DATA=/mnt/sdh/UniAttackData  # Dataset dir
+MODELDIR=./test/2024-12-15_06:46:46  # load pth dir
 OUTPUT=./test/  # pth save pth
 PROTOCOL=p1@train@val@test # {protocol name}@train@val@test
 GPU_IDS='0' # str
