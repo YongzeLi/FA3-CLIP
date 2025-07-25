@@ -49,7 +49,7 @@ This project is evaluated on two datasets:
   - 📂 [Github Page](https://github.com/liuajian/CASIA-FAS-Dataset/tree/main/UniAttackData)
 
 - **JFSFDB**  
-  - 📄 *Benchmarking Joint Face Spoofing and Forgery Detection With Visual and Physiological Cues*, IEEE TIFS 2024  
+  - 📄 *Benchmarking Joint Face Spoofing and Forgery Detection With Visual and Physiological Cues*, IEEE TDSC 2024  
   - 🔗 [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10387780)  
   - 📂 [GitHub Page](https://github.com/ZitongYu/Benchmarking/tree/main)
 
