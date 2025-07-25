@@ -2,12 +2,12 @@
 # custom config
 # val model path:
 # test/
-# └── 2024-12-15_06:46:46/
+# └── p1/
 #     └── CLIP@VL/
 #         └── model-best.pth.tar
 
 DATA=/mnt/sdh/UniAttackData  # Dataset dir
-MODELDIR=./test/2024-12-15_06:46:46  # load pth dir
+MODELDIR=./test/p1  # load pth dir
 OUTPUT=./test/  # pth save pth
 PROTOCOL=p1@train@val@test # {protocol name}@train@val@test
 GPU_IDS='0' # str
