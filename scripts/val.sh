@@ -1,6 +1,6 @@
 #!/bin/bash
 # custom config
-# val model path:
+# val checkpoint path:
 # test/
 # └── p1/
 #     └── CLIP@VL/
