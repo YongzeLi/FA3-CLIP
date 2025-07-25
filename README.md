@@ -1,6 +1,6 @@
 # FA³-CLIP: Frequency-Aware and Attack-Agnostic CLIP for Unified Face Attack Detection
 
-[**Paper**](https://arxiv.org/pdf/2504.00454?) | [**Pretrained Models**](#) *(coming soon)*
+[**Paper**](https://arxiv.org/pdf/2504.00454?)
 
 ## 📌 Introduction
 
@@ -62,9 +62,8 @@ Val checkpoint:
 bash scripts/val.sh
 ```
 
-### 4. Pretrained Models
+### 4. Checkpoints
 
-```bash
-We will release pretrained weights soon.
-```
+[Protpcol P1 checkpoint](https://drive.google.com/file/d/1b3Df6jjwKKXS9gUSLPqwxOkwFkn8dTEB/view?usp=sharing)
+
 
