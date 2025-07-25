@@ -1,0 +1,9 @@
+einops
+matplotlib
+numpy
+opencv
+pandas
+Pillow
+setuptools
+six
+timm
