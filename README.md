@@ -22,7 +22,7 @@
 
 ```bash
 git clone https://github.com/YongzeLi/FA3-CLIP.git
-cd fa3-clip
+cd FA3-CLIP
 git clone https://github.com/KaiyangZhou/Dassl.pytorch.git
 cd Dassl.pytorch/
 
@@ -65,5 +65,6 @@ bash scripts/val.sh
 ### 4. Checkpoints
 
 [Protocol P1 checkpoint](https://drive.google.com/file/d/1b3Df6jjwKKXS9gUSLPqwxOkwFkn8dTEB/view?usp=sharing)
+
 
 
