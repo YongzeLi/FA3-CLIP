@@ -21,6 +21,8 @@
 ### 1. Clone the Repository and Create Environment
 
 ```bash
+git clone https://github.com/YongzeLi/FA3-CLIP.git
+cd FA3-CLIP/
 git clone https://github.com/KaiyangZhou/Dassl.pytorch.git
 cd Dassl.pytorch/
 
@@ -58,4 +60,5 @@ bash scripts/fa3-train.sh
 Val checkpoint:
 bash scripts/fa3-test.sh
 ```
+
 
