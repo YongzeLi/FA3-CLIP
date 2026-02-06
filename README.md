@@ -1,6 +1,6 @@
 # FA³-CLIP: Frequency-Aware and Attack-Agnostic CLIP for Unified Face Attack Detection
 
-[**Paper**](https://arxiv.org/pdf/2504.00454?)
+[**Paper**](https://ieeexplore.ieee.org/document/11097296)
 
 ## 📌 Introduction
 
@@ -60,5 +60,6 @@ bash scripts/fa3-train.sh
 Val checkpoint:
 bash scripts/fa3-test.sh
 ```
+
 
 
