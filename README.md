@@ -19,6 +19,7 @@
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository and Create Environment
+#### We recommend using the latest stable environment for better performance and hardware support (Python 3.10+).
 
 ```bash
 git clone https://github.com/YongzeLi/FA3-CLIP.git
@@ -26,7 +27,7 @@ cd FA3-CLIP/
 git clone https://github.com/KaiyangZhou/Dassl.pytorch.git
 cd Dassl.pytorch/
 
-conda create -y -n your_env python=3.8
+conda create -y -n your_env python=3.10
 conda activate your_env
 
 conda install pytorch torchvision cudatoolkit=10.2 -c pytorch
@@ -60,6 +61,7 @@ bash scripts/fa3-train.sh
 Val checkpoint:
 bash scripts/fa3-test.sh
 ```
+
 
 
 
