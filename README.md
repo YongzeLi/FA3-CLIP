@@ -56,10 +56,10 @@ This project is evaluated on two datasets:
 
 ```bash
 Train:
-bash scripts/fa3-train.sh
+bash scripts/fa3_train.sh
 
 Val checkpoint:
-bash scripts/fa3-test.sh
+bash scripts/fa3_test.sh
 ```
 
 
